@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/viniciosComerciante/knex-advanced-sql#readme",
   "dependencies": {
-    "knex": "^0.95.6"
+    "knex": "^0.95.6",
+    "pg": "^8.6.0"
   }
 }
